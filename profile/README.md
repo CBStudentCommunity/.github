@@ -1,3 +1,3 @@
-## Welcome to the Colonel By Student Community!
+## Open source @ CB Student Community
 
-more to come soon...
+We're Colonel By Secondary School's largest multi-platform online community. Find out more: [cbstudents.ca](https://www.cbstudents.ca)
